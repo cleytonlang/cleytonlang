@@ -1,6 +1,6 @@
 ### Cleyton Brasil 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-danielobara-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cleytonbrasil/)](https://www.linkedin.com/in/cleytonbrasil/)
+[![Linkedin Badge](https://img.shields.io/badge/-cleytonbrasil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cleytonbrasil/)](https://www.linkedin.com/in/cleytonbrasil/)
 [![Gmail Badge](https://img.shields.io/badge/-cleytonb40@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cleytonb40@gmail.com)](mailto:cleytonb40@gmail.com)
 
 **cleytonlang/cleytonlang** is a ✨ Software Developer ✨ currently I'm having fun with Javascript
