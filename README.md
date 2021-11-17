@@ -1,7 +1,7 @@
 ### Cleyton Brasil 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-cleytonbrasil?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cleytonbrasil/)](https://www.linkedin.com/in/cleytonbrasil/)
-[![Gmail Badge](https://img.shields.io/badge/-cleytonb40@gmail.com?style=flat&logo=Gmail&logoColor=white&link=mailto:cleytonb40@gmail.com)](mailto:cleytonb40@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-cleytonbrasil-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cleytonbrasil/)](https://www.linkedin.com/in/cleytonbrasil/)
+[![Gmail Badge](https://img.shields.io/badge/-cleytonb40@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:cleytonb40@gmail.com)](mailto:cleytonb40@gmail.com)
 
 Hi, I'm a 💻 **Software Developer** 💻 currently I'm having fun with Javascript
 
