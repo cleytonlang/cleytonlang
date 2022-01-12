@@ -8,8 +8,8 @@
 
 Hi, I'm a 💻 **Software Developer** 💻 currently I'm having fun with Javascript
 
-- 💬 I’m currently working on JavaScript (NodeJS, ReactJS, PostgreSQL)
-- 💬 I’m currently learning React Native, AWS Cloud 
+- 💬 I’m currently working on JavaScript (NodeJS, ReactJS, PostgreSQL, AWS)
+- 💬 I’m currently learning Typescript, NextJS and  AWS Cloud 
 
 ⚡My favorite technologies:
 
