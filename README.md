@@ -1,7 +1,7 @@
 
 <img align="right" height="590em" src="image-own.png"/>
 
-![alt text](image-own.png)
+![alt text](/image-own.png)
 
 <h3 align="left">### Cleyton Brasil 👋</h3>
 
