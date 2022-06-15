@@ -1,26 +1,31 @@
+<h4 align="left">Hi, I'm a Software Engineer currently I'm having fun with Javascript</h4>
 
-<img align="right" height="590em" src="image-own.png"/>
+###
+<h6 align="left">💬 I’m currently working on JavaScript (NodeJS, ReactJS, NextJS, PostgreSQL, AWS)<br>💬 I’m currently learning Typescript, NextJS and AWS Cloud</h6>
 
-<h3 align="left">### Cleyton Brasil 👋</h3>
+###
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" width="52" alt="amazonwebservices logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" width="52" alt="gitlab logo"  />
+</div>
 
-[![Linkedin Badge](https://img.shields.io/badge/-cleytonbrasil-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cleytonbrasil/)](https://www.linkedin.com/in/cleytonbrasil/)
-[![Gmail Badge](https://img.shields.io/badge/-cleytonb40@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:cleytonb40@gmail.com)](mailto:cleytonb40@gmail.com)
+###
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&username=cleytonlang" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&username=cleytonlang" height="150" alt="languages graph"  />
+</div>
 
-Hi, I'm a 💻 **Software Developer** 💻 currently I'm having fun with Javascript
+###
+<img href="https://github.com/cleytonlang/cleytonlang/blob/output/snake.svg" alt="Snake animation" />
 
-- 💬 I’m currently working on JavaScript (NodeJS, ReactJS, PostgreSQL, AWS)
-- 💬 I’m currently learning Typescript, NextJS and  AWS Cloud 
-
-⚡My favorite technologies:
-
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-  ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-  ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-  ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-  ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-  ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-  ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
-  ![SQLServer](https://img.shields.io/badge/-SQLServer-05122A?style=flat&logo=microsoftsqlserver)&nbsp;
-  ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
+###
